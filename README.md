@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RoomKey
 
 Premium real estate maison built with **Next.js** and **Tailwind CSS**. The app lives in the repository root and includes a curated listing experience, property detail pages, a home banner slider, and a full footer.
@@ -34,3 +35,6 @@ This is a full-stack Next.js app (UI + API), so one host is enough.
 - **Netlify:** connect this GitHub repo and use `netlify.toml`
 - **Render:** Blueprint via `render.yaml`, or a Node web service with `npm run build` / `npm start`
 - **Vercel:** import the repo; Next.js is detected automatically
+=======
+# roomkey
+>>>>>>> b8dadcb1e49d28b7207f82fcf5e59a5aa8f3e5e7
